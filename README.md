@@ -1,1 +1,2 @@
-# PCBMints2026
+# PCBMints2025
+Contains PCB designs for MINTS Projects 
